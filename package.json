@@ -1,0 +1,23 @@
+{
+  "name": "webcharts-performance",
+  "version": "0.0.1",
+  "description": "performance tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cipix2000@github.com/cipix2000/webcharts-performance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cipix2000/webcharts-performance/issues"
+  },
+  "homepage": "https://github.com/cipix2000/webcharts-performance#readme",
+  "dependencies": {
+    "browser-perf": "^1.4.11",
+    "ni-webcharts": "^0.4.2"
+  }
+}
